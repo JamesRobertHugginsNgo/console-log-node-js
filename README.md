@@ -2,6 +2,10 @@
 
 A way to add fore ground and background colour to console logs.
 
+## Disclaimer
+
+The benefit is not worth the cost. It's better to hard code the function call. This may have been the result of over thinking.
+
 ## Example
 
 ``` JavaScript
