@@ -1,5 +1,5 @@
 {
-  "name": "console-log-node",
+  "name": "console-log-nodejs",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
@@ -8,19 +8,19 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/JamesRobertHugginsNgo/console-log-node-js.git"
+    "url": "git+https://github.com/JamesRobertHugginsNgo/console-log-nodejs.git"
   },
   "keywords": [],
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/JamesRobertHugginsNgo/console-log-node-js/issues"
+    "url": "https://github.com/JamesRobertHugginsNgo/console-log-nodejs/issues"
   },
-  "homepage": "https://github.com/JamesRobertHugginsNgo/console-log-node-js#readme",
+  "homepage": "https://github.com/JamesRobertHugginsNgo/console-log-nodejs#readme",
   "devDependencies": {
     "eslint": "^7.31.0"
   },
   "dependencies": {
-    "regex-split-node-js": "github:JamesRobertHugginsNgo/regex-split-node-js#1.0.0"
+    "regex-split-nodejs": "github:JamesRobertHugginsNgo/regex-split-nodejs"
   }
 }

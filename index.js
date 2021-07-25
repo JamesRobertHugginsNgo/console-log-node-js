@@ -1,4 +1,4 @@
-const regexSplit = require('regex-split-node-js');
+const regexSplit = require('regex-split-nodejs');
 
 /**
  * Console log wrapper. Adds colour to console logs.
